@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment / secrets
+*.env
+.env
+
+# Logs and runtime files
+logs/
+*.log
+
+# Database files
+*.sqlite3
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated outputs (optional - remove if you want them tracked)
+receipts/
+reports/
+
+# MyPy / Python tools
+.mypy_cache/
+__pypackages__/
